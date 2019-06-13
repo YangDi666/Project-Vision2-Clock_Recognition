@@ -1,16 +1,17 @@
 # Project-Vision2-Watch_Recognition
-Qt application with OpenCV for clock recognition 
+Qt application with OpenCV which can recognize the time of the clock in the image.
 
-This application can recognise the time of the clock in the image.
+### Demo
+#### User Interface
 
-## Demo
-### User Interface
 ![ad](https://github.com/YangDi666/Project-Vision2-Clock_Recognition/blob/master/demo/GUI.png)
 
-### Image Processing
+#### Image Processing
 
 - Original image
+
 ![ad](https://github.com/YangDi666/Project-Vision2-Clock_Recognition/blob/master/demo/original%20image.png)
 
--Processed image
+- Processed image
+
 ![ad](https://github.com/YangDi666/Project-Vision2-Clock_Recognition/blob/master/demo/imageprocessing.png)
